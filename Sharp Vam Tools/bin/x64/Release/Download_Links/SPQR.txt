@@ -1,0 +1,255 @@
+SPQR.SPQRAlive.34.var   https://pixeldrain.com/u/utYZk9mN
+SPQR.ALIVECORE.6.var   https://pixeldrain.com/api/file/HJJ4ppgF/info/zip/SPQR/SPQR.ALIVECORE.6.var
+SPQR.ALIVECORE.8.var   https://pixeldrain.com/api/file/HJJ4ppgF/info/zip/SPQR/SPQR.ALIVECORE.8.var
+SPQR.ANIMA.3.var   https://pixeldrain.com/api/file/HJJ4ppgF/info/zip/SPQR/SPQR.ANIMA.3.var
+SPQR.AeternumArena.3.var   https://pixeldrain.com/api/file/HJJ4ppgF/info/zip/SPQR/SPQR.AeternumArena.3.var
+SPQR.AeternumArena.4.var   https://pixeldrain.com/api/file/HJJ4ppgF/info/zip/SPQR/SPQR.AeternumArena.4.var
+SPQR.AeternumSky.1.var   https://pixeldrain.com/api/file/HJJ4ppgF/info/zip/SPQR/SPQR.AeternumSky.1.var
+SPQR.BLESSAMATE.1.var   https://pixeldrain.com/api/file/HJJ4ppgF/info/zip/SPQR/SPQR.BLESSAMATE.1.var
+SPQR.CopyPaste.1.var   https://pixeldrain.com/api/file/HJJ4ppgF/info/zip/SPQR/SPQR.CopyPaste.1.var
+SPQR.Curvy.1.var   https://pixeldrain.com/api/file/HJJ4ppgF/info/zip/SPQR/SPQR.Curvy.1.var
+SPQR.DynamicUISize.1.var   https://pixeldrain.com/api/file/HJJ4ppgF/info/zip/SPQR/SPQR.DynamicUISize.1.var
+SPQR.ExtraFov.1.var   https://pixeldrain.com/api/file/HJJ4ppgF/info/zip/SPQR/SPQR.ExtraFov.1.var
+SPQR.F3.2.var   https://pixeldrain.com/api/file/HJJ4ppgF/info/zip/SPQR/SPQR.F3.2.var
+SPQR.FaceSpotlight.1.var   https://pixeldrain.com/api/file/HJJ4ppgF/info/zip/SPQR/SPQR.FaceSpotlight.1.var
+SPQR.HandCam.1.var   https://pixeldrain.com/api/file/HJJ4ppgF/info/zip/SPQR/SPQR.HandCam.1.var
+SPQR.MAKEUP-001.1.var   https://pixeldrain.com/api/file/HJJ4ppgF/info/zip/SPQR/SPQR.MAKEUP-001.1.var
+SPQR.MAKEUP-002.1.var   https://pixeldrain.com/api/file/HJJ4ppgF/info/zip/SPQR/SPQR.MAKEUP-002.1.var
+SPQR.MAKEUP-003.1.var   https://pixeldrain.com/api/file/HJJ4ppgF/info/zip/SPQR/SPQR.MAKEUP-003.1.var
+SPQR.MAKEUP-004.1.var   https://pixeldrain.com/api/file/HJJ4ppgF/info/zip/SPQR/SPQR.MAKEUP-004.1.var
+SPQR.MAKEUP-005.1.var   https://pixeldrain.com/api/file/HJJ4ppgF/info/zip/SPQR/SPQR.MAKEUP-005.1.var
+SPQR.Monique.1.var   https://pixeldrain.com/api/file/HJJ4ppgF/info/zip/SPQR/SPQR.Monique.1.var
+SPQR.OceanDesire.1.var   https://pixeldrain.com/api/file/HJJ4ppgF/info/zip/SPQR/SPQR.OceanDesire.1.var
+SPQR.PerformanceInfo.4.var   https://pixeldrain.com/api/file/HJJ4ppgF/info/zip/SPQR/SPQR.PerformanceInfo.4.var
+SPQR.ProBeauty.1.var   https://pixeldrain.com/api/file/HJJ4ppgF/info/zip/SPQR/SPQR.ProBeauty.1.var
+SPQR.ProPiercings.8.var   https://pixeldrain.com/api/file/HJJ4ppgF/info/zip/SPQR/SPQR.ProPiercings.8.var
+SPQR.ProPiercings.9.var   https://pixeldrain.com/api/file/HJJ4ppgF/info/zip/SPQR/SPQR.ProPiercings.9.var
+SPQR.ReHaptics.4.var   https://pixeldrain.com/api/file/HJJ4ppgF/info/zip/SPQR/SPQR.ReHaptics.4.var
+SPQR.ReHaptics.6.var   https://pixeldrain.com/api/file/HJJ4ppgF/info/zip/SPQR/SPQR.ReHaptics.6.var
+SPQR.SNOWAMATE.1.var   https://pixeldrain.com/api/file/HJJ4ppgF/info/zip/SPQR/SPQR.SNOWAMATE.1.var
+SPQR.SPQRAlive.76.var   https://pixeldrain.com/api/file/HJJ4ppgF/info/zip/SPQR/SPQR.SPQRAlive.76.var
+SPQR.SPQRAlive.81.var   https://pixeldrain.com/api/file/HJJ4ppgF/info/zip/SPQR/SPQR.SPQRAlive.81.var
+SPQR.SnowamateAlways.1.var   https://pixeldrain.com/api/file/HJJ4ppgF/info/zip/SPQR/SPQR.SnowamateAlways.1.var
+SPQR.TwistAlways.4.var   https://pixeldrain.com/api/file/HJJ4ppgF/info/zip/SPQR/SPQR.TwistAlways.4.var
+SPQR.TwistAlways.5.var   https://pixeldrain.com/api/file/HJJ4ppgF/info/zip/SPQR/SPQR.TwistAlways.5.var
+SPQR.TwistAnimation.4.var   https://pixeldrain.com/api/file/HJJ4ppgF/info/zip/SPQR/SPQR.TwistAnimation.4.var
+SPQR.TwistAnimation.5.var   https://pixeldrain.com/api/file/HJJ4ppgF/info/zip/SPQR/SPQR.TwistAnimation.5.var
+SPQR.VITAE.1.var   https://pixeldrain.com/api/file/HJJ4ppgF/info/zip/SPQR/SPQR.VITAE.1.var
+SPQR.VoicePack_female1.1.var   https://pixeldrain.com/api/file/HJJ4ppgF/info/zip/SPQR/SPQR.VoicePack_female1.1.var
+SPQR.VoicePack_female2.1.var   https://pixeldrain.com/api/file/HJJ4ppgF/info/zip/SPQR/SPQR.VoicePack_female2.1.var
+SPQR.VoicePack_female3.1.var   https://pixeldrain.com/api/file/HJJ4ppgF/info/zip/SPQR/SPQR.VoicePack_female3.1.var
+SPQR.VoicePack_female4.1.var   https://pixeldrain.com/api/file/HJJ4ppgF/info/zip/SPQR/SPQR.VoicePack_female4.1.var
+SPQR.VoicePack_female5.1.var   https://pixeldrain.com/api/file/HJJ4ppgF/info/zip/SPQR/SPQR.VoicePack_female5.1.var
+SPQR.VoicePack_female6.1.var   https://pixeldrain.com/api/file/HJJ4ppgF/info/zip/SPQR/SPQR.VoicePack_female6.1.var
+SPQR.VoicePack_male1.1.var   https://pixeldrain.com/api/file/HJJ4ppgF/info/zip/SPQR/SPQR.VoicePack_male1.1.var
+SPQR.VoicePack_male2.1.var   https://pixeldrain.com/api/file/HJJ4ppgF/info/zip/SPQR/SPQR.VoicePack_male2.1.var
+SPQR.VoicePack_male3.1.var   https://pixeldrain.com/api/file/HJJ4ppgF/info/zip/SPQR/SPQR.VoicePack_male3.1.var
+SPQR.ΔиgэLΔ.1.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Looks/SPQR.ΔиgэLΔ.1.var
+SPQR.ΔLî¢э.2.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Looks/SPQR.ΔLî¢э.2.var
+SPQR.ΔLî¢э.1.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Looks/SPQR.ΔLî¢э.1.var
+SPQR.YAAP.4.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Plugins/YAAP/SPQR.YAAP.4.var
+SPQR.YAAP.3.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Plugins/YAAP/SPQR.YAAP.3.var
+SPQR.YAAP.1.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Plugins/YAAP/SPQR.YAAP.1.var
+SPQR.VirtualDoll.2.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Plugins/VirtualDoll/SPQR.VirtualDoll.2.var
+SPQR.VirtualDoll.1.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Plugins/VirtualDoll/SPQR.VirtualDoll.1.var
+SPQR.VamWidgetsDemo.2.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Plugins/VamWidgets/SPQR.VamWidgetsDemo.2.var
+SPQR.VamWidgets.1.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Plugins/VamWidgets/SPQR.VamWidgets.1.var
+SPQR.VamDiffusion.1.var   https://pixeldrain.com/api/file/MDRS41wn/info/zip/SPQR.VamDiffusion.1.var
+SPQR.Ticklish.2.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Plugins/Ticklish/SPQR.Ticklish.2.var
+SPQR.Ticklish.1.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Plugins/Ticklish/SPQR.Ticklish.1.var
+SPQR.TextureAnimator.1.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Plugins/TextureAnimator/SPQR.TextureAnimator.1.var
+SPQR.Teleporter.1.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Plugins/Teleporter/SPQR.Teleporter.1.var
+SPQR.TVStudio.1.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Assets/TVStudio/SPQR.TVStudio.1.var
+SPQR.SoundRefresh.2.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Plugins/SoundRefresh/SPQR.SoundRefresh.2.var
+SPQR.SoundRefresh.1.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Plugins/SoundRefresh/SPQR.SoundRefresh.1.var
+SPQR.SPQRPull.2.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Plugins/Pull/SPQR.SPQRPull.2.var
+SPQR.SPQRPlugins.47.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Plugins/Plugin Collection/SPQR.SPQRPlugins.47.var
+SPQR.SPQRPerformance.1.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Plugins/Performance/SPQR.SPQRPerformance.1.var
+SPQR.SPQRHaptics.4.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Plugins/Haptics/SPQR.SPQRHaptics.4.var
+SPQR.SPQRHaptics.3.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Plugins/Haptics/SPQR.SPQRHaptics.3.var
+SPQR.SPQRHaptics.2.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Plugins/Haptics/SPQR.SPQRHaptics.2.var
+SPQR.SPQRHaptics.1.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Plugins/Haptics/SPQR.SPQRHaptics.1.var
+SPQR.SPQRCollection.1.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Plugins/Plugin Collection/SPQR.SPQRCollection.1.var
+SPQR.SPQRAliveResources.5.var   https://pixeldrain.com/api/file/v44nFZYr/info/zip/Alive Home & Resources/SPQR.SPQRAliveResources.5.var
+SPQR.SPQRAliveResources.4.var   https://pixeldrain.com/api/file/v44nFZYr/info/zip/Alive Home & Resources/SPQR.SPQRAliveResources.4.var
+SPQR.SPQRAliveResources.3.var   https://pixeldrain.com/api/file/v44nFZYr/info/zip/Alive Home & Resources/SPQR.SPQRAliveResources.3.var
+SPQR.SPQRAliveResources.2.var   https://pixeldrain.com/api/file/v44nFZYr/info/zip/Alive Home & Resources/SPQR.SPQRAliveResources.2.var
+SPQR.SPQRAliveResources.1.var   https://pixeldrain.com/api/file/v44nFZYr/info/zip/Alive Home & Resources/SPQR.SPQRAliveResources.1.var
+SPQR.SPQRAlive.9.var   https://pixeldrain.com/api/file/ckCXYFe3/info/zip/Alive/SPQR.SPQRAlive.9.var
+SPQR.SPQRAlive.8.var   https://pixeldrain.com/api/file/ckCXYFe3/info/zip/Alive/SPQR.SPQRAlive.8.var
+SPQR.SPQRAlive.73.var   https://pixeldrain.com/api/file/sPzieYwL/info/zip/Alive/SPQR.SPQRAlive.73.var
+SPQR.SPQRAlive.72.var   https://pixeldrain.com/api/file/sPzieYwL/info/zip/Alive/SPQR.SPQRAlive.72.var
+SPQR.SPQRAlive.71.var   https://pixeldrain.com/api/file/sPzieYwL/info/zip/Alive/SPQR.SPQRAlive.71.var
+SPQR.SPQRAlive.70.var   https://pixeldrain.com/api/file/sPzieYwL/info/zip/Alive/SPQR.SPQRAlive.70.var
+SPQR.SPQRAlive.7.var   https://pixeldrain.com/api/file/ckCXYFe3/info/zip/Alive/SPQR.SPQRAlive.7.var
+SPQR.SPQRAlive.69.var   https://pixeldrain.com/api/file/sPzieYwL/info/zip/Alive/SPQR.SPQRAlive.69.var
+SPQR.SPQRAlive.68.var   https://pixeldrain.com/api/file/sPzieYwL/info/zip/Alive/SPQR.SPQRAlive.68.var
+SPQR.SPQRAlive.67.var   https://pixeldrain.com/api/file/sPzieYwL/info/zip/Alive/SPQR.SPQRAlive.67.var
+SPQR.SPQRAlive.66.var   https://pixeldrain.com/api/file/sPzieYwL/info/zip/Alive/SPQR.SPQRAlive.66.var
+SPQR.SPQRAlive.65.var   https://pixeldrain.com/api/file/sPzieYwL/info/zip/Alive/SPQR.SPQRAlive.65.var
+SPQR.SPQRAlive.64.var   https://pixeldrain.com/api/file/sPzieYwL/info/zip/Alive/SPQR.SPQRAlive.64.var
+SPQR.SPQRAlive.63.var   https://pixeldrain.com/api/file/sPzieYwL/info/zip/Alive/SPQR.SPQRAlive.63.var
+SPQR.SPQRAlive.62.var   https://pixeldrain.com/api/file/sPzieYwL/info/zip/Alive/SPQR.SPQRAlive.62.var
+SPQR.SPQRAlive.61.var   https://pixeldrain.com/api/file/sPzieYwL/info/zip/Alive/SPQR.SPQRAlive.61.var
+SPQR.SPQRAlive.60.var   https://pixeldrain.com/api/file/sPzieYwL/info/zip/Alive/SPQR.SPQRAlive.60.var
+SPQR.SPQRAlive.6.var   https://pixeldrain.com/api/file/ckCXYFe3/info/zip/Alive/SPQR.SPQRAlive.6.var
+SPQR.SPQRAlive.59.var   https://pixeldrain.com/api/file/sPzieYwL/info/zip/Alive/SPQR.SPQRAlive.59.var
+SPQR.SPQRAlive.58.var   https://pixeldrain.com/api/file/sPzieYwL/info/zip/Alive/SPQR.SPQRAlive.58.var
+SPQR.SPQRAlive.57.var   https://pixeldrain.com/api/file/sPzieYwL/info/zip/Alive/SPQR.SPQRAlive.57.var
+SPQR.SPQRAlive.56.var   https://pixeldrain.com/api/file/sPzieYwL/info/zip/Alive/SPQR.SPQRAlive.56.var
+SPQR.SPQRAlive.55.var   https://pixeldrain.com/api/file/sPzieYwL/info/zip/Alive/SPQR.SPQRAlive.55.var
+SPQR.SPQRAlive.54.var   https://pixeldrain.com/api/file/sPzieYwL/info/zip/Alive/SPQR.SPQRAlive.54.var
+SPQR.SPQRAlive.53.var   https://pixeldrain.com/api/file/sPzieYwL/info/zip/Alive/SPQR.SPQRAlive.53.var
+SPQR.SPQRAlive.52.var   https://pixeldrain.com/api/file/sPzieYwL/info/zip/Alive/SPQR.SPQRAlive.52.var
+SPQR.SPQRAlive.51.var   https://pixeldrain.com/api/file/sPzieYwL/info/zip/Alive/SPQR.SPQRAlive.51.var
+SPQR.SPQRAlive.50.var   https://pixeldrain.com/api/file/ckCXYFe3/info/zip/Alive/SPQR.SPQRAlive.50.var
+SPQR.SPQRAlive.5.var   https://pixeldrain.com/api/file/ckCXYFe3/info/zip/Alive/SPQR.SPQRAlive.5.var
+SPQR.SPQRAlive.49.var   https://pixeldrain.com/api/file/ckCXYFe3/info/zip/Alive/SPQR.SPQRAlive.49.var
+SPQR.SPQRAlive.48.var   https://pixeldrain.com/api/file/ckCXYFe3/info/zip/Alive/SPQR.SPQRAlive.48.var
+SPQR.SPQRAlive.47.var   https://pixeldrain.com/api/file/ckCXYFe3/info/zip/Alive/SPQR.SPQRAlive.47.var
+SPQR.SPQRAlive.47.var   https://pixeldrain.com/api/file/MDRS41wn/info/zip/SPQR.SPQRAlive.47.var
+SPQR.SPQRAlive.46.var   https://pixeldrain.com/api/file/ckCXYFe3/info/zip/Alive/SPQR.SPQRAlive.46.var
+SPQR.SPQRAlive.45.var   https://pixeldrain.com/api/file/ckCXYFe3/info/zip/Alive/SPQR.SPQRAlive.45.var
+SPQR.SPQRAlive.44.var   https://pixeldrain.com/api/file/ckCXYFe3/info/zip/Alive/SPQR.SPQRAlive.44.var
+SPQR.SPQRAlive.43.var   https://pixeldrain.com/api/file/ckCXYFe3/info/zip/Alive/SPQR.SPQRAlive.43.var
+SPQR.SPQRAlive.42.var   https://pixeldrain.com/api/file/ckCXYFe3/info/zip/Alive/SPQR.SPQRAlive.42.var
+SPQR.SPQRAlive.41.var   https://pixeldrain.com/api/file/ckCXYFe3/info/zip/Alive/SPQR.SPQRAlive.41.var
+SPQR.SPQRAlive.40.var   https://pixeldrain.com/api/file/ckCXYFe3/info/zip/Alive/SPQR.SPQRAlive.40.var
+SPQR.SPQRAlive.4.var   https://pixeldrain.com/api/file/ckCXYFe3/info/zip/Alive/SPQR.SPQRAlive.4.var
+SPQR.SPQRAlive.39.var   https://pixeldrain.com/api/file/ckCXYFe3/info/zip/Alive/SPQR.SPQRAlive.39.var
+SPQR.SPQRAlive.39.var   https://pixeldrain.com/api/file/MDRS41wn/info/zip/SPQR.SPQRAlive.39.var
+SPQR.SPQRAlive.38.var   https://pixeldrain.com/api/file/ckCXYFe3/info/zip/Alive/SPQR.SPQRAlive.38.var
+SPQR.SPQRAlive.37.var   https://pixeldrain.com/api/file/ckCXYFe3/info/zip/Alive/SPQR.SPQRAlive.37.var
+SPQR.SPQRAlive.36.var   https://pixeldrain.com/api/file/ckCXYFe3/info/zip/Alive/SPQR.SPQRAlive.36.var
+SPQR.SPQRAlive.35.var   https://pixeldrain.com/api/file/ckCXYFe3/info/zip/Alive/SPQR.SPQRAlive.35.var
+SPQR.SPQRAlive.34.var   https://pixeldrain.com/api/file/ckCXYFe3/info/zip/Alive/SPQR.SPQRAlive.34.var
+SPQR.SPQRAlive.33.var   https://pixeldrain.com/api/file/ckCXYFe3/info/zip/Alive/SPQR.SPQRAlive.33.var
+SPQR.SPQRAlive.32.var   https://pixeldrain.com/api/file/ckCXYFe3/info/zip/Alive/SPQR.SPQRAlive.32.var
+SPQR.SPQRAlive.31.var   https://pixeldrain.com/api/file/ckCXYFe3/info/zip/Alive/SPQR.SPQRAlive.31.var
+SPQR.SPQRAlive.30.var   https://pixeldrain.com/api/file/ckCXYFe3/info/zip/Alive/SPQR.SPQRAlive.30.var
+SPQR.SPQRAlive.30.var   https://pixeldrain.com/api/file/MDRS41wn/info/zip/SPQR.SPQRAlive.30.var
+SPQR.SPQRAlive.3.var   https://pixeldrain.com/api/file/ckCXYFe3/info/zip/Alive/SPQR.SPQRAlive.3.var
+SPQR.SPQRAlive.29.var   https://pixeldrain.com/api/file/ckCXYFe3/info/zip/Alive/SPQR.SPQRAlive.29.var
+SPQR.SPQRAlive.28.var   https://pixeldrain.com/api/file/ckCXYFe3/info/zip/Alive/SPQR.SPQRAlive.28.var
+SPQR.SPQRAlive.27.var   https://pixeldrain.com/api/file/ckCXYFe3/info/zip/Alive/SPQR.SPQRAlive.27.var
+SPQR.SPQRAlive.26.var   https://pixeldrain.com/api/file/ckCXYFe3/info/zip/Alive/SPQR.SPQRAlive.26.var
+SPQR.SPQRAlive.25.var   https://pixeldrain.com/api/file/ckCXYFe3/info/zip/Alive/SPQR.SPQRAlive.25.var
+SPQR.SPQRAlive.24.var   https://pixeldrain.com/api/file/ckCXYFe3/info/zip/Alive/SPQR.SPQRAlive.24.var
+SPQR.SPQRAlive.23.var   https://pixeldrain.com/api/file/ckCXYFe3/info/zip/Alive/SPQR.SPQRAlive.23.var
+SPQR.SPQRAlive.22.var   https://pixeldrain.com/api/file/ckCXYFe3/info/zip/Alive/SPQR.SPQRAlive.22.var
+SPQR.SPQRAlive.21.var   https://pixeldrain.com/api/file/ckCXYFe3/info/zip/Alive/SPQR.SPQRAlive.21.var
+SPQR.SPQRAlive.20.var   https://pixeldrain.com/api/file/ckCXYFe3/info/zip/Alive/SPQR.SPQRAlive.20.var
+SPQR.SPQRAlive.2.var   https://pixeldrain.com/api/file/ckCXYFe3/info/zip/Alive/SPQR.SPQRAlive.2.var
+SPQR.SPQRAlive.19.var   https://pixeldrain.com/api/file/ckCXYFe3/info/zip/Alive/SPQR.SPQRAlive.19.var
+SPQR.SPQRAlive.18.var   https://pixeldrain.com/api/file/ckCXYFe3/info/zip/Alive/SPQR.SPQRAlive.18.var
+SPQR.SPQRAlive.18.var   https://pixeldrain.com/api/file/MDRS41wn/info/zip/SPQR.SPQRAlive.18.var
+SPQR.SPQRAlive.17.var   https://pixeldrain.com/api/file/ckCXYFe3/info/zip/Alive/SPQR.SPQRAlive.17.var
+SPQR.SPQRAlive.16.var   https://pixeldrain.com/api/file/ckCXYFe3/info/zip/Alive/SPQR.SPQRAlive.16.var
+SPQR.SPQRAlive.16.var   https://pixeldrain.com/api/file/MDRS41wn/info/zip/SPQR.SPQRAlive.16.var
+SPQR.SPQRAlive.15.var   https://pixeldrain.com/api/file/ckCXYFe3/info/zip/Alive/SPQR.SPQRAlive.15.var
+SPQR.SPQRAlive.14.var   https://pixeldrain.com/api/file/ckCXYFe3/info/zip/Alive/SPQR.SPQRAlive.14.var
+SPQR.SPQRAlive.13.var   https://pixeldrain.com/api/file/ckCXYFe3/info/zip/Alive/SPQR.SPQRAlive.13.var
+SPQR.SPQRAlive.12.var   https://pixeldrain.com/api/file/ckCXYFe3/info/zip/Alive/SPQR.SPQRAlive.12.var
+SPQR.SPQRAlive.11.var   https://pixeldrain.com/api/file/ckCXYFe3/info/zip/Alive/SPQR.SPQRAlive.11.var
+SPQR.SPQRAlive.10.var   https://pixeldrain.com/api/file/ckCXYFe3/info/zip/Alive/SPQR.SPQRAlive.10.var
+SPQR.SPQRAlive.1.var   https://pixeldrain.com/api/file/ckCXYFe3/info/zip/Alive/SPQR.SPQRAlive.1.var
+SPQR.Riddler_Skin6_4k_Optimized.1.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Misc/Riddler Skin6 4k Optimized/SPQR.Riddler_Skin6_4k_Optimized.1.var
+SPQR.PersonalSpace.1.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Plugins/PersonalSpace/SPQR.PersonalSpace.1.var
+SPQR.Otherworldly.1.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Scene/Otherworldly/SPQR.Otherworldly.1.var
+SPQR.OldVam.1.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Plugins/OldVAM/SPQR.OldVam.1.var
+SPQR.OhMyButtons.2.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Plugins/OhMyButtons/SPQR.OhMyButtons.2.var
+SPQR.OhMyButtons.1.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Plugins/OhMyButtons/SPQR.OhMyButtons.1.var
+SPQR.OculusDriftDeadzone.1.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Plugins/OculusDriftDeadzone/SPQR.OculusDriftDeadzone.1.var
+SPQR.Move.1.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Scene/Move/SPQR.Move.1.var
+SPQR.MorphBlendDemoBelly.1.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Plugins/MorphBlend/SPQR.MorphBlendDemoBelly.1.var
+SPQR.MorphBlend.1.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Plugins/MorphBlend/SPQR.MorphBlend.1.var
+SPQR.Massage.1.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Scene/Massage! A Ticklish Demo/SPQR.Massage.1.var
+SPQR.MagicAtoms.8.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Plugins/MagicAtoms/SPQR.MagicAtoms.8.var
+SPQR.MagicAtoms.7.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Plugins/MagicAtoms/SPQR.MagicAtoms.7.var
+SPQR.MagicAtoms.6.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Plugins/MagicAtoms/SPQR.MagicAtoms.6.var
+SPQR.MagicAtoms.4.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Plugins/MagicAtoms/SPQR.MagicAtoms.4.var
+SPQR.MagicAtoms.3.var   https://pixeldrain.com/api/file/MDRS41wn/info/zip/SPQR.MagicAtoms.3.var
+SPQR.MagicAtoms.2.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Plugins/MagicAtoms/SPQR.MagicAtoms.2.var
+SPQR.MagicAtoms.1.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Plugins/MagicAtoms/SPQR.MagicAtoms.1.var
+SPQR.LightPulsate.1.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Plugins/LightPulsate/SPQR.LightPulsate.1.var
+SPQR.Juno.3.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Looks/SPQR.Juno.3.var
+SPQR.Juno.2.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Looks/SPQR.Juno.2.var
+SPQR.Juno.1.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Looks/SPQR.Juno.1.var
+SPQR.Inventory.1.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Plugins/Inventory/SPQR.Inventory.1.var
+SPQR.Fraemework.4.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Plugins/Fraemework/SPQR.Fraemework.4.var
+SPQR.Fraemework.3.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Plugins/Fraemework/SPQR.Fraemework.3.var
+SPQR.Fraemework.3.var   https://pixeldrain.com/api/file/MDRS41wn/info/zip/SPQR.Fraemework.3.var
+SPQR.Fraemework.2.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Plugins/Fraemework/SPQR.Fraemework.2.var
+SPQR.Fraemework.1.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Plugins/Fraemework/SPQR.Fraemework.1.var
+SPQR.Foundation.3.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Misc/Foundation/SPQR.Foundation.3.var
+SPQR.Foundation.2.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Misc/Foundation/SPQR.Foundation.2.var
+SPQR.Foundation.2.var   https://pixeldrain.com/api/file/MDRS41wn/info/zip/SPQR.Foundation.2.var
+SPQR.Footsteps.2.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Plugins/Footsteps/SPQR.Footsteps.2.var
+SPQR.Footsteps.1.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Plugins/Footsteps/SPQR.Footsteps.1.var
+SPQR.Footsteps.1.var   https://pixeldrain.com/api/file/MDRS41wn/info/zip/SPQR.Footsteps.1.var
+SPQR.Factory.2.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Plugins/Factory/SPQR.Factory.2.var
+SPQR.Factory.1.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Plugins/Factory/SPQR.Factory.1.var
+SPQR.ExtraTriggers.9.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Plugins/Extra Triggers/SPQR.ExtraTriggers.9.var
+SPQR.ExtraTriggers.8.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Plugins/Extra Triggers/SPQR.ExtraTriggers.8.var
+SPQR.ExtraTriggers.8.var   https://pixeldrain.com/api/file/MDRS41wn/info/zip/SPQR.ExtraTriggers.8.var
+SPQR.ExtraTriggers.7.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Plugins/Extra Triggers/SPQR.ExtraTriggers.7.var
+SPQR.ExtraTriggers.6.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Plugins/Extra Triggers/SPQR.ExtraTriggers.6.var
+SPQR.ExtraTriggers.6.var   https://pixeldrain.com/api/file/MDRS41wn/info/zip/SPQR.ExtraTriggers.6.var
+SPQR.ExtraTriggers.5.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Plugins/Extra Triggers/SPQR.ExtraTriggers.5.var
+SPQR.ExtraTriggers.5.var   https://pixeldrain.com/api/file/MDRS41wn/info/zip/SPQR.ExtraTriggers.5.var
+SPQR.ExtraTriggers.3.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Plugins/Extra Triggers/SPQR.ExtraTriggers.3.var
+SPQR.ExtraTriggers.2.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Plugins/Extra Triggers/SPQR.ExtraTriggers.2.var
+SPQR.ExtraTriggers.1.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Plugins/Extra Triggers/SPQR.ExtraTriggers.1.var
+SPQR.ErrorsUnderTheRug.1.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Plugins/ErrorsUnderTheRug/SPQR.ErrorsUnderTheRug.1.var
+SPQR.DesktopPoseHelperAuto.1.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Plugins/DesktopPoseHelper/SPQR.DesktopPoseHelperAuto.1.var
+SPQR.DesktopPoseHelper.1.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Plugins/DesktopPoseHelper/SPQR.DesktopPoseHelper.1.var
+SPQR.CyberHair.1.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Plugins/CyberHair/SPQR.CyberHair.1.var
+SPQR.BiggerAtoms.1.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Plugins/BiggerAtoms/SPQR.BiggerAtoms.1.var
+SPQR.Beatrix.3.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Looks/SPQR.Beatrix.3.var
+SPQR.Beatrix.1.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Looks/SPQR.Beatrix.1.var
+SPQR.Beatrix.1.var   https://pixeldrain.com/api/file/MDRS41wn/info/zip/SPQR.Beatrix.1.var
+SPQR.Aurelia.2.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Looks/SPQR.Aurelia.2.var
+SPQR.Aurelia.1.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Looks/SPQR.Aurelia.1.var
+SPQR.AssetAudioVolume.1.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Plugins/AssetAudioVolume/SPQR.AssetAudioVolume.1.var
+SPQR.AnimationsPack.1.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Misc/Animations Pack/SPQR.AnimationsPack.1.var
+SPQR.AliveExtrasOptional.1.var   https://pixeldrain.com/api/file/v44nFZYr/info/zip/Alive Home & Resources/SPQR.AliveExtrasOptional.1.var
+SPQR.AeternumToolsPack.8.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Plugins/AeternumTools/SPQR.AeternumToolsPack.8.var
+SPQR.AeternumToolsPack.7.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Plugins/AeternumTools/SPQR.AeternumToolsPack.7.var
+SPQR.AeternumToolsPack.7.var   https://pixeldrain.com/api/file/MDRS41wn/info/zip/SPQR.AeternumToolsPack.7.var
+SPQR.AeternumToolsPack.6.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Plugins/AeternumTools/SPQR.AeternumToolsPack.6.var
+SPQR.AeternumToolsPack.6.var   https://pixeldrain.com/api/file/MDRS41wn/info/zip/SPQR.AeternumToolsPack.6.var
+SPQR.AeternumToolsPack.5.var   https://pixeldrain.com/api/file/MDRS41wn/info/zip/SPQR.AeternumToolsPack.5.var
+SPQR.AeternumToolsPack.4.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Plugins/AeternumTools/SPQR.AeternumToolsPack.4.var
+SPQR.AeternumToolsPack.3.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Plugins/AeternumTools/SPQR.AeternumToolsPack.3.var
+SPQR.AeternumToolsPack.3.var   https://pixeldrain.com/api/file/MDRS41wn/info/zip/SPQR.AeternumToolsPack.3.var
+SPQR.AeternumToolsPack.2.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Plugins/AeternumTools/SPQR.AeternumToolsPack.2.var
+SPQR.AeternumToolsPack.2.var   https://pixeldrain.com/api/file/MDRS41wn/info/zip/SPQR.AeternumToolsPack.2.var
+SPQR.AeternumToolsPack.1.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Plugins/AeternumTools/SPQR.AeternumToolsPack.1.var
+SPQR.AeternumToolsDynamicText.1.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Plugins/Dynamic Text/SPQR.AeternumToolsDynamicText.1.var
+SPQR.AeternumLocations.4.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Assets/Aeternum Locations/SPQR.AeternumLocations.4.var
+SPQR.AeternumLocations.3.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Assets/Aeternum Locations/SPQR.AeternumLocations.3.var
+SPQR.AeternumLocations.2.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Assets/Aeternum Locations/SPQR.AeternumLocations.2.var
+SPQR.AeternumLocations.1.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Assets/Aeternum Locations/SPQR.AeternumLocations.1.var
+SPQR.AeternumAssets.2.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Assets/Aeternum Assets/SPQR.AeternumAssets.2.var
+SPQR.AeternumAssets.1.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Assets/Aeternum Assets/SPQR.AeternumAssets.1.var
+SPQR.APICheckBrick.1.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Plugins/APICheck/SPQR.APICheckBrick.1.var
+SPQR.ALIVECORE.5.var   https://pixeldrain.com/api/file/MDRS41wn/info/zip/SPQR.ALIVECORE.5.var
+SPQR.ALIVECORE.2.var   https://pixeldrain.com/api/file/MDRS41wn/info/zip/SPQR.ALIVECORE.2.var
+SPQR.AEWearThickerGlasses.1.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Misc/Thicker Glasses/SPQR.AEWearThickerGlasses.1.var
+SPQR.AEToolsDemoMorphDrag.1.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Plugins/MorphBlend/SPQR.AEToolsDemoMorphDrag.1.var
+SPQR.AEToolsDemoCumulativeCondition.1.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Plugins/AeternumTools/SPQR.AEToolsDemoCumulativeCondition.1.var
+SPQR.AETV.3.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Plugins/AETV/SPQR.AETV.3.var
+SPQR.AETV.2.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Plugins/AETV/SPQR.AETV.2.var
+SPQR.AETV.1.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Plugins/AETV/SPQR.AETV.1.var
+SPQR.AEStudio.4.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Scene/AEStudio/SPQR.AEStudio.4.var
+SPQR.AEStudio.3.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Scene/AEStudio/SPQR.AEStudio.3.var
+SPQR.AEStudio.2.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Scene/AEStudio/SPQR.AEStudio.2.var
+SPQR.AEStudio.1.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Scene/AEStudio/SPQR.AEStudio.1.var
+SPQR.AEFilters.1.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Misc/AEFilters/SPQR.AEFilters.1.var
+SPQR.AEDoll.4.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Plugins/AEDoll/SPQR.AEDoll.4.var
+SPQR.AEDoll.3.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Plugins/AEDoll/SPQR.AEDoll.3.var
+SPQR.AEDoll.3.var   https://pixeldrain.com/api/file/MDRS41wn/info/zip/SPQR.AEDoll.3.var
+SPQR.AEDoll.2.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Plugins/AEDoll/SPQR.AEDoll.2.var
+SPQR.AEDoll.1.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Plugins/AEDoll/SPQR.AEDoll.1.var
+SPQR.AEColorful.1.var   https://pixeldrain.com/api/file/zDHGkeAn/info/zip/SPQR_Collection/Plugins/Colorful (Minigame)/SPQR.AEColorful.1.var
+SPQR.A2Morphs.1.var   https://pixeldrain.com/api/file/MDRS41wn/info/zip/SPQR.A2Morphs.1.var

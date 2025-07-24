@@ -1,0 +1,6 @@
+VAMitou_Testitou.linkle_clothes.1.var   https://pixeldrain.com/api/file/uD2GMTFy/info/zip/VAMitou_Testitou.linkle_clothes.1.var
+VAMItou_Testitou.vela.1.var   https://pixeldrain.com/u/KNmFTcMh
+VAMItou_Testitou.stranger_clothes.1.var   https://pixeldrain.com/u/HU7fqpZ6
+VAMItou_Testitou.quiet.3.var   https://pixeldrain.com/u/rHUmoent
+VAMItou_Testitou.Christie.1.var   https://pixeldrain.com/u/8B4hkF6K
+VAMItou_Testitou.SelinaK.2.var   https://pixeldrain.com/u/RtCgkRwU

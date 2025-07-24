@@ -1,0 +1,17 @@
+LUXDAR.Tracer_OW.1.var   https://pixeldrain.com/api/file/7nqR8pt7/info/zip/LUXDAR.Tracer_OW.1.var
+LUXDAR.Sym_OW_ALT.1.var   https://pixeldrain.com/api/file/7nqR8pt7/info/zip/LUXDAR.Sym_OW_ALT.1.var
+LUXDAR.Sym_OW.1.var   https://pixeldrain.com/api/file/7nqR8pt7/info/zip/LUXDAR.Sym_OW.1.var
+LUXDAR.Moira_OW.1.var   https://pixeldrain.com/api/file/7nqR8pt7/info/zip/LUXDAR.Moira_OW.1.var
+LUXDAR.Kiriko_OW2.1.var   https://pixeldrain.com/api/file/7nqR8pt7/info/zip/LUXDAR.Kiriko_OW2.1.var
+LUXDAR.JunoV2.1.var   https://pixeldrain.com/api/file/7nqR8pt7/info/zip/LUXDAR.JunoV2.1.var
+LUXDAR.Jinx_Arcane.1.var   https://pixeldrain.com/api/file/7nqR8pt7/info/zip/LUXDAR.Jinx_Arcane.1.var
+LUXDAR.Euryale-Medusa_OW2.1.var   https://pixeldrain.com/api/file/7nqR8pt7/info/zip/LUXDAR.Euryale-Medusa_OW2.1.var
+LUXDAR.Juno_OW2.5.var   https://pixeldrain.com/api/file/MAEwvPzZ/info/zip/LUXDAR.Juno_OW2.5.var
+LUXDAR.MercyPink.3.var   https://pixeldrain.com/api/file/MAEwvPzZ/info/zip/LUXDAR.MercyPink.3.var
+LUXDAR.Widowmaker_OW2.1.var   https://pixeldrain.com/api/file/MAEwvPzZ/info/zip/LUXDAR.Widowmaker_OW2.1.var
+LUXDAR.Sombra_OW.1.var   https://pixeldrain.com/api/file/MAEwvPzZ/info/zip/LUXDAR.Sombra_OW.1.var
+LUXDAR.Illari_OW2.1.var   https://pixeldrain.com/api/file/MAEwvPzZ/info/zip/LUXDAR.Illari_OW2.1.var
+LUXDAR.D_Va_OW2.1.var   https://pixeldrain.com/api/file/MAEwvPzZ/info/zip/LUXDAR.D_Va_OW2.1.var
+LUXDAR.Brigitte_OW2.1.var   https://pixeldrain.com/api/file/MAEwvPzZ/info/zip/LUXDAR.Brigitte_OW2.1.var
+LUXDAR.Ashe_OW2.1.var   https://pixeldrain.com/api/file/MAEwvPzZ/info/zip/LUXDAR.Ashe_OW2.1.var
+LUXDAR.Mercy_Scene.5.var   https://pixeldrain.com/u/pnLYBEHr

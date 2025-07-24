@@ -1,0 +1,62 @@
+﻿[Exceptional Creators]
+A&Ms Playhouse
+abc tits
+Abubu Nownanka
+Angel CutebXtch
+Angry Birds
+Anonymous Chunk
+Anonymous one
+Anonymous One
+Ashen Ryder
+Bob Nothing
+Captain Varghoss
+Cs Digital Studio
+Do Not Distribute
+Electric Dreams
+Fenix 71
+Freaky activities
+Good Sun
+JayC Re-animator
+jj builds 
+John Doe
+Kid Erie
+Kiss Kiss
+Lady BabyLoin
+Lance Phaser
+lol internet
+Mamo wot
+Mare Productions
+Mister X
+Mister Yeetus
+No one
+particle pinnacle
+Pornstar Signature Series
+Regulus Fen
+s p l i n e  VR
+s p l i n e VR
+Shadow Venom
+Slippery J
+The Cum
+The legend
+The Night Queen
+Twerk VR
+Vam Architect
+Virtual Creations
+[/Exceptional Creators]
+
+[Saved Locations]
+D:\VaM_1.22.0.9\Addonpackages (Remove This)
+[/Saved Locations]
+
+[pixeldrain_api]
+50ad514e-565d-4025-9683-d728cf8df57a
+[/pixeldrain_api]
+
+[Encoding]
+UTF-8
+[/Encoding]
+
+[Appearance]
+Theme=Dark
+Style=Red
+[/Appearance]

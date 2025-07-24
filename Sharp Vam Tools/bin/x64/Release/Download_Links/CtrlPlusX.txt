@@ -1,0 +1,7 @@
+CtrlPlusX.CPX03.3.var   https://pixeldrain.com/api/file/Avqx2LvK/info/zip/CtrlPlusX.CPX03.3.var
+CtrlPlusX.CPX07.2.var   https://pixeldrain.com/api/file/Avqx2LvK/info/zip/CtrlPlusX.CPX07.2.var
+CtrlPlusX.CPX06.1.var   https://pixeldrain.com/api/file/Avqx2LvK/info/zip/CtrlPlusX.CPX06.1.var
+CtrlPlusX.CPX05.1.var   https://pixeldrain.com/api/file/Avqx2LvK/info/zip/CtrlPlusX.CPX05.1.var
+CtrlPlusX.CPX04.1.var   https://pixeldrain.com/api/file/Avqx2LvK/info/zip/CtrlPlusX.CPX04.1.var
+CtrlPlusX.CPX02.1.var   https://pixeldrain.com/api/file/Avqx2LvK/info/zip/CtrlPlusX.CPX02.1.var
+CtrlPlusX.CPX01.1.var   https://pixeldrain.com/api/file/Avqx2LvK/info/zip/CtrlPlusX.CPX01.1.var

@@ -1,0 +1,7 @@
+myqr.青.1.var   https://pixeldrain.com/api/file/md5Z3Tfk/info/zip/VAM_myqr%20-%20Qing/myqr.%E9%9D%92.1.var
+myqr.赖赖.1.var   https://pixeldrain.com/api/file/P56DGQuy/info/zip/myqr.%E8%B5%96%E8%B5%96.1.var
+myqr.君怡.2.var   https://pixeldrain.com/api/file/671Lga5j/info/zip/myqr.%E5%90%9B%E6%80%A1.2.var
+myqr.信.1.var   https://pixeldrain.com/api/file/TsHUuRPM/info/zip/Xin%20vam_myqr/myqr.%E4%BF%A1.1.var
+myqr.蒂法.1.var   https://pixeldrain.com/api/file/PysGut8e/info/zip/myqr.%E8%92%82%E6%B3%95.1.var
+myqr.程曦.1.var   https://pixeldrain.com/api/file/8jbAzJom/info/zip/myqr.%E7%A8%8B%E6%9B%A6.1.var
+myqr.炎雪.1.var   https://pixeldrain.com/api/file/31QrY6v5/info/zip/myqr.%E7%82%8E%E9%9B%AA.1.var
