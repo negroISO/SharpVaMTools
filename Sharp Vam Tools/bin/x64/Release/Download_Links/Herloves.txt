@@ -1,14 +1,3 @@
-Herloves.An.2.var   https://pixeldrain.com/api/file/PkwMxUhB/info/zip/Herloves.An.2.var
-Herloves.Xiu_Xian-hair.1.var   https://pixeldrain.com/api/file/PkwMxUhB/info/zip/Herloves.Xiu_Xian-hair.1.var
-Herloves.Xiu_Xian.1.var   https://pixeldrain.com/api/file/PkwMxUhB/info/zip/Herloves.Xiu_Xian.1.var
-Herloves.Hui_Xian_XD.1.var   https://pixeldrain.com/api/file/PkwMxUhB/info/zip/Herloves.Hui_Xian_XD.1.var
-Herloves.Xin_Yi.2.var   https://pixeldrain.com/api/file/fxvt4F1p/info/zip/Herloves.Xin_Yi.2.var
-Herloves.Ling.2.var   https://pixeldrain.com/api/file/fxvt4F1p/info/zip/Herloves.Ling.2.var
-Herloves.B1-Jing.2.var   https://pixeldrain.com/api/file/fxvt4F1p/info/zip/Herloves.B1-Jing.2.var
-Herloves.Yan.1.var   https://pixeldrain.com/api/file/fxvt4F1p/info/zip/Herloves.Yan.1.var
-Herloves.Nun_skirt_scarf.1.var   https://pixeldrain.com/api/file/fxvt4F1p/info/zip/Herloves.Nun_skirt_scarf.1.var
-Herloves.Herloves-Yi_YunA.1.var   https://pixeldrain.com/api/file/fxvt4F1p/info/zip/Herloves.Herloves-Yi_YunA.1.var
-Herloves.Feng_Ling_ClothA.1.var   https://pixeldrain.com/api/file/fxvt4F1p/info/zip/Herloves.Feng_Ling_ClothA.1.var
-Herloves.Feng_Ling.1.var   https://pixeldrain.com/api/file/fxvt4F1p/info/zip/Herloves.Feng_Ling.1.var
-Herloves.B04-Ya.1.var   https://pixeldrain.com/api/file/fxvt4F1p/info/zip/Herloves.B04-Ya.1.var
-Herloves.B03-Qing.1.var   https://pixeldrain.com/api/file/fxvt4F1p/info/zip/Herloves.B03-Qing.1.var
+version https://git-lfs.github.com/spec/v1
+oid sha256:f8366990e7d5f996f2abcad3d2d6d07216f3a3301523e0543137a2e14008963f
+size 1436

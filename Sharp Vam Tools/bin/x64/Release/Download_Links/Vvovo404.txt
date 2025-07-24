@@ -1,3 +1,3 @@
-Vvovo404.vvovo2.1.var   https://pixeldrain.com/api/file/H7sCD4K1/info/zip/Vvovo404.vvovo2.1.var
-Vvovo404.vvovo1.2.var   https://pixeldrain.com/api/file/H7sCD4K1/info/zip/Vvovo404.vvovo1.2.var
-Vvovo404.GGpreset.1.var   https://pixeldrain.com/api/file/H7sCD4K1/info/zip/Vvovo404.GGpreset.1.var
+version https://git-lfs.github.com/spec/v1
+oid sha256:22df6c7688f472394f148538f80e5fc1074b3f845435aabf0a2178cb637e65fa
+size 295

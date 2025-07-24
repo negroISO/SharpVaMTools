@@ -1,8 +1,3 @@
-Cgomes.STATIC.2.var   https://pixeldrain.com/api/file/U85iuj5F/info/zip/Cgomes.STATIC.2.var
-Cgomes.Thamara_scene_1.1.var   https://pixeldrain.com/api/file/U85iuj5F/info/zip/Cgomes.Thamara_scene_1.1.var
-Cgomes.Thamara_mast.1.var   https://pixeldrain.com/api/file/U85iuj5F/info/zip/Cgomes.Thamara_mast.1.var
-Cgomes.THAMARA_FUCK_json.1.var   https://pixeldrain.com/api/file/U85iuj5F/info/zip/Cgomes.THAMARA_FUCK_json.1.var
-Cgomes.Thamara.1.var   https://pixeldrain.com/api/file/U85iuj5F/info/zip/Cgomes.Thamara.1.var
-Cgomes.STATIC.1.var   https://pixeldrain.com/api/file/U85iuj5F/info/zip/Cgomes.STATIC.1.var
-Cgomes.AVA_FUCK_json.1.var   https://pixeldrain.com/api/file/U85iuj5F/info/zip/Cgomes.AVA_FUCK_json.1.var
-Cgomes.1_scene_thamara.1.var   https://pixeldrain.com/api/file/U85iuj5F/info/zip/Cgomes.1_scene_thamara.1.var
+version https://git-lfs.github.com/spec/v1
+oid sha256:862a938fd79775d6c227c82ebccce71039377c534ac4508cc3c41b1a12c57d70
+size 830

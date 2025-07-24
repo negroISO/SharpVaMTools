@@ -1,2 +1,3 @@
-JRlob.Heami01.1.var   https://pixeldrain.com/api/file/yTA2ZS7D/info/zip/JRob_Collection/Looks/JRlob.Heami01.1.var
-JRlob.hana30.2.var   https://pixeldrain.com/api/file/yTA2ZS7D/info/zip/JRob_Collection/Looks/JRlob.hana30.2.var
+version https://git-lfs.github.com/spec/v1
+oid sha256:077354befa2bd50371fe84adaa552f02a0ba368119cc563a488ce1592376ab8b
+size 226

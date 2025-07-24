@@ -1,11 +1,3 @@
-WICK.FB1_0.1.var   https://pixeldrain.com/api/file/pvg1jLNQ/info/zip/Looks - Wick/WICK.FB1_0.1.var
-WICK.FUJIANG.2.var   https://pixeldrain.com/api/file/pvg1jLNQ/info/zip/Looks - Wick/WICK.FUJIANG.2.var
-WICK.HCG-MIYU.1.var   https://pixeldrain.com/api/file/pvg1jLNQ/info/zip/Looks - Wick/WICK.HCG-MIYU.1.var
-WICK.JINGSHEN1_0.1.var   https://pixeldrain.com/api/file/pvg1jLNQ/info/zip/Looks - Wick/WICK.JINGSHEN1_0.1.var
-WICK.angel1_0.1.var   https://pixeldrain.com/api/file/pvg1jLNQ/info/zip/Looks - Wick/WICK.angel1_0.1.var
-Wick.jie1_0.1.var   https://pixeldrain.com/api/file/pvg1jLNQ/info/zip/Looks - Wick/Wick.jie1_0.1.var
-Wick.ruanruan.1.var   https://pixeldrain.com/api/file/pvg1jLNQ/info/zip/Looks - Wick/Wick.ruanruan.1.var
-Wick.yunzhuan1_0.1.var   https://pixeldrain.com/api/file/pvg1jLNQ/info/zip/Looks - Wick/Wick.yunzhuan1_0.1.var
-wick.LUCY_1_5.1.var   https://pixeldrain.com/api/file/pvg1jLNQ/info/zip/Looks - Wick/wick.LUCY_1_5.1.var
-wick.LUCY_HAIR_scalp.1.var   https://pixeldrain.com/api/file/pvg1jLNQ/info/zip/Looks - Wick/wick.LUCY_HAIR_scalp.1.var
-wick.SANQIANYUAN.1.var   https://pixeldrain.com/api/file/pvg1jLNQ/info/zip/Looks - Wick/wick.SANQIANYUAN.1.var
+version https://git-lfs.github.com/spec/v1
+oid sha256:673910a4c0365f64e36814e2ea07ddb1273f1b0b69d570cc33507293a513ca51
+size 1186

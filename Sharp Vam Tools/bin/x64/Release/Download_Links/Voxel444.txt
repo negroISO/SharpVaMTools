@@ -1,8 +1,3 @@
-Voxel444.Nancy_Voxel_Package.2.var   https://pixeldrain.com/api/file/bA7vXf1w/info/zip/Voxel444.Nancy_Voxel_Package.2.var
-Voxel444.Nubia_VoxelEdition.1.var   https://pixeldrain.com/api/file/bA7vXf1w/info/zip/Voxel444.Nubia_VoxelEdition.1.var
-Voxel444.Naomi_VoxelEdition.1.var   https://pixeldrain.com/api/file/bA7vXf1w/info/zip/Voxel444.Naomi_VoxelEdition.1.var
-Voxel444.Maya_Voxel_Package.1.var   https://pixeldrain.com/api/file/bA7vXf1w/info/zip/Voxel444.Maya_Voxel_Package.1.var
-Voxel444.Mary_VoxelEdition.1.var   https://pixeldrain.com/api/file/bA7vXf1w/info/zip/Voxel444.Mary_VoxelEdition.1.var
-Voxel444.HazelVoxelLook.1.var   https://pixeldrain.com/api/file/bA7vXf1w/info/zip/Voxel444.HazelVoxelLook.1.var
-Voxel444.Diana_Voxel.1.var   https://pixeldrain.com/api/file/bA7vXf1w/info/zip/Voxel444.Diana_Voxel.1.var
-Voxel444.Rachel_Voxel.1.var   https://pixeldrain.com/u/eJNMztLU
+version https://git-lfs.github.com/spec/v1
+oid sha256:d6f63189649e9e750df47848b6f94fe172c6fb0576958522ee7f982af886286e
+size 888

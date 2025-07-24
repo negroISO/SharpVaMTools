@@ -1,10 +1,3 @@
-Environments.tree_house.1.var   https://pixeldrain.com/api/file/aKDTKHYF/info/zip/Assets/Environments.tree_house.1.var
-Environments.tbbt_apartment.1.var   https://pixeldrain.com/api/file/aKDTKHYF/info/zip/Assets/Environments.tbbt_apartment.1.var
-Environments.Summer_Camp.1.var   https://pixeldrain.com/api/file/aKDTKHYF/info/zip/Assets/Environments.Summer_Camp.1.var
-Environments.stz_bedroom.1.var   https://pixeldrain.com/api/file/aKDTKHYF/info/zip/Assets/Environments.stz_bedroom.1.var
-Environments.Small_Forest_House.1.var   https://pixeldrain.com/api/file/aKDTKHYF/info/zip/Assets/Environments.Small_Forest_House.1.var
-Environments.school_classroom_new.1.var   https://pixeldrain.com/api/file/aKDTKHYF/info/zip/Assets/Environments.school_classroom_new.1.var
-Environments.romantic_island_bedroom_ilts.1.var   https://pixeldrain.com/api/file/aKDTKHYF/info/zip/Assets/Environments.romantic_island_bedroom_ilts.1.var
-Environments.parisian_room_ilts.1.var   https://pixeldrain.com/api/file/aKDTKHYF/info/zip/Assets/Environments.parisian_room_ilts.1.var
-Environments.modern_classroom.1.var   https://pixeldrain.com/api/file/aKDTKHYF/info/zip/Assets/Environments.modern_classroom.1.var
-Environments.bathroom.1.var   https://pixeldrain.com/api/file/aKDTKHYF/info/zip/Assets/Environments.bathroom.1.var
+version https://git-lfs.github.com/spec/v1
+oid sha256:13246c8b903dcab23fc48257e89cd995758e3454aaac9bc1768476c7dd96b7ed
+size 1308

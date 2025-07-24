@@ -1,9 +1,3 @@
-MKD-V.Kim_Young_Hee.2.var   https://pixeldrain.com/api/file/66w3mvmt/info/zip/MKD-V.Kim_Young_Hee.2.var
-MKD-V.Lee_Mi_Ran.1.var   https://pixeldrain.com/api/file/66w3mvmt/info/zip/MKD-V.Lee_Mi_Ran.1.var
-MKD-V.LEE_GEE_AN.1.var   https://pixeldrain.com/api/file/66w3mvmt/info/zip/MKD-V.LEE_GEE_AN.1.var
-MKD-V.LEE_AN_GEE.1.var   https://pixeldrain.com/api/file/66w3mvmt/info/zip/MKD-V.LEE_AN_GEE.1.var
-MKD-V.Kim_Young_Hee.1.var   https://pixeldrain.com/api/file/66w3mvmt/info/zip/MKD-V.Kim_Young_Hee.1.var
-MKD-V.K_AGASSI.1.var   https://pixeldrain.com/api/file/66w3mvmt/info/zip/MKD-V.K_AGASSI.1.var
-MKD-V.Han_Mi_Sook.1.var   https://pixeldrain.com/api/file/66w3mvmt/info/zip/MKD-V.Han_Mi_Sook.1.var
-MKD-V.AGASSI_Vol_04.1.var   https://pixeldrain.com/api/file/66w3mvmt/info/zip/MKD-V.AGASSI_Vol_04.1.var
-MKD-V.a_friend.1.var   https://pixeldrain.com/api/file/66w3mvmt/info/zip/MKD-V.a_friend.1.var
+version https://git-lfs.github.com/spec/v1
+oid sha256:b4241965609829a60822dc83540c3fdf45bc7a73b834fe45914503ad61075609
+size 901
